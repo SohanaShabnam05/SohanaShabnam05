@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sohana Shabnam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/beautiful-young-lofi-girl-studying-while-listening-music-with-rain-outside_888204-46.jpg?size=338&ext=jpg&ga=GA1.1.1803636316.1700784000&semt=ais">
+<img align="right" alt="Coding" width="380" src="https://img.freepik.com/premium-photo/beautiful-young-lofi-girl-studying-while-listening-music-with-rain-outside_888204-46.jpg?size=338&ext=jpg&ga=GA1.1.1803636316.1700784000&semt=ais">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanashabnam05&label=Profile%20views&color=0e75b6&style=flat" alt="sohanashabnam05" /> </p>
 
