@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sohana Shabnam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="360" src="https://i.pinimg.com/736x/7e/80/d8/7e80d8fa0ff422d122aba441fb09b739.jpg">
+<img align="right" alt="Coding" width="260"src="https://i.pinimg.com/736x/45/60/69/4560693e06e30252269a1c66520206cd.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanashabnam05&label=Profile%20views&color=0e75b6&style=flat" alt="sohanashabnam05" /> </p>
 
